@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #E2DDB4;
+}
+header .name {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #E43636;
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    gap: 10px;
+}
+nav .link {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #E43636;
+    transition: 0.2s;
+}
+nav .link:hover {
+    background-color: white;
+}

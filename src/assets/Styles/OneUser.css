@@ -1,0 +1,18 @@
+.oneUser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.oneUser .content {
+    background-color: white;
+    padding: 10px 20px;
+    text-align: center;
+    color: #E43636;
+}
+.oneUser .content h1 {
+    color: black;
+}
+.oneUser .content .link {
+    color: black;
+}
